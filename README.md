@@ -22,7 +22,7 @@ Requires a standard LaTeX distribution with `biblatex`, `tikz`, `tabularx`, and 
 
 ## Status
 
-Design phase complete. Implementation starting now. See the roadmap in Chapter 10.
+The blueprint is the published reference. Implementation is well underway in the [arlenos/arlen](https://github.com/arlenos/arlen) monorepo (pre-alpha). See the roadmap in Chapter 10.
 
 ## License
 
